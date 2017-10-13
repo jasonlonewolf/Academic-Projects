@@ -1,0 +1,6 @@
+Java Programming Languages,53
+A First Course in Database Systems,25
+Introductory Statistics with R,-95
+Database System Concepts,45
+Java: The Complete Reference Ninth Edition,45
+Database Management Systems,53
